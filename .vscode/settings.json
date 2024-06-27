@@ -1,0 +1,7 @@
+{
+    "editor.indentSize": 2,
+    "editor.tabSize": 2,
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "js/ts.implicitProjectConfig.checkJs": true
+}

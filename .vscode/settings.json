@@ -3,5 +3,6 @@
     "editor.tabSize": 2,
     "javascript.preferences.quoteStyle": "single",
     "javascript.preferences.importModuleSpecifierEnding": "js",
-    "js/ts.implicitProjectConfig.checkJs": true
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "files.associations": { "*.css": "tailwindcss" }
 }
